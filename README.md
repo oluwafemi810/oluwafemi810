@@ -1,14 +1,4 @@
 
-
-<h2 align="center">Hey there I'm Akinkoye Oluwafemi </h2>
-
-- 👨‍💻 I am an upcoming Frontend engineer with the zeal to be a professional Software Engineer.
-  
-  
-- ❤️ I love learning new things
-- 👯 I’m looking forward to be a professional Software Engineer
-- 🤖 currently pursuing a First degree in computer engineering .
-
 - Some of my projects  
     ##### 🌏 Clipy
     ##### 📱 Time Management App
